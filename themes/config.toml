@@ -1,4 +1,4 @@
-# Site setting
+#Site setting
 baseurl = "https://example.org/"
 languageCode = "en-us"
 title = "praxisflow"
